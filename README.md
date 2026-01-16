@@ -1,12 +1,19 @@
 ## Hi there 👋
 
 🔭 I have done with my final-semester as an undergraduate student at AIUB(Internship left only), working on projects related to Data Science, Software Engineering, and Web Development.
+
 🌱 I’m currently learning Data Science concepts, SEO & Digital Marketing, and advanced programming (C#, Web technologies).
+
 👯 I’m looking to collaborate on data science research, software projects, web development, and digital marketing/SEO-based projects.
+
 🤔 I’m looking for help with research topic selection in Data Science, scholarship opportunities for higher studies, and real-world project experience.
+
 💬 Ask me about C#, OOP, database-driven applications, software engineering projects, data analysis, SEO basics, and student research.
+
 📫 How to reach me: via LinkedIn, email, or facebook.
+
 😄 Pronouns: He/Him
+
 ⚡ Fun fact: I love playing and following cricket and football—sports keep me energized and focused alongside resear! 🏏⚽
 
 I am a motivated and passionate student with a strong interest in Data Science, Artificial Intelligence, software development, and SEO & digital marketing. I enjoy working on real-world and research-oriented projects that involve data analysis, intelligent systems, and problem-solving through technology. I am continuously learning emerging tools and technologies to strengthen my technical skills and gain practical experience, with a focus on building meaningful and impactful digital solutions.
